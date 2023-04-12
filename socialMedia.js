@@ -13,7 +13,7 @@ const friendModal = document.querySelector("#user-info-modal")
 const CARD_PER_PAGE = 10
 let now_is_page = 1
 
-
+//This one for white box branch
 axios.get(ALL_USER_URL).then(response => {
   const users_array = response.data.results
   storeUserInfo(users_array, allUser)
