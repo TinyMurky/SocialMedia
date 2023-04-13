@@ -1,5 +1,5 @@
 # socialMedia
-[Click this to experience the website](https://tinymurky.github.io/SocialMedia/index.html)
+[Click here to experience the website](https://tinymurky.github.io/SocialMedia/index.html)
 
 ![](https://github.com/TinyMurky/SocialMedia/blob/main/readme_attachment/demo.gif)
 
